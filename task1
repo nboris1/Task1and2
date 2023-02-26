@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>BetaTinz</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+<header>
+	
+	<div id="slideshow">
+      <div class="slide-wrapper">
+        <div class="slide"><img src="paulbiya.jpg" class="slide-number"><p>Paul biya celebrates 95th birthday</p></div><br><br>
+        <div class="slide"><img width="" src="matinez.jpg"><p>Prominent radio journalist assasinated in cold blood</p></div><br>
+        <div class="slide"><img src="jpb.jpg"><p>business Tycoon Amougou Belinga arrested in conection with murder of martinex zogo</p></div><br>
+        <div class="slide"><img src="martinez-zogo.jpg"><p>Matinex Zogo laid to rest in his HomeTown in Centre Region</p><br>
+      </div>
+    </div>
+</header>
+
+<div class="allnews">
+    <div class="news-links">
+    <!--	<table> -->
+    		<ul class="list">
+    			<li><a href="#"> Fru Ndi under pressure as protesting SDF bigwigs intensify calls for return to party’s fundamental principles</a></li>
+    			<li><a href="#">Government condemns claims by RSF, Le Monde likening Cameroon to monarchy </a> </li>
+    			<li><a href="#"> Murder of Cameroonian journalist triggers state scandal</a> </li>
+    			<li><a href="#"> At least 15 dead in landslide in Cameroon capital Yaounde</a> </li>
+    			
+    		</ul>
+    	</table>
+    </div>
+    <div class="main">
+    	<section>
+    		<h1>10 INJURED , AND 2 DEAD IN BUEA BOMB BLAST</h1>
+    		<img src="paulbiya2.jpg">
+He did not elaborate on the nature of the bomb or who might have thrown it.
+
+Buea is the capital of Cameroon's Southwest region. Both the Southwest and Northwest regions are mainly English-speaking in the otherwise predominantly French-speaking central African country.
+
+A decades-long campaign by militants to redress perceived discrimination at the hands of the francophone majority flared into a declaration of independence on October 1, 2017, sparking a crackdown by security forces.
+
+The conflict has claimed more than 3,500 lives and forced 700,000 people to flee their homes, according to NGO estimates that have not been updated in more than a year despite an escalation in violence in recent months.
+
+The United Nations and international organizations regularly denounce abuses and crimes committed against civilians by both sides.</p>
+
+
+    	</section>
+    </div>
+    <div class="othernews">
+    	<section class="section1">
+    		<h1>Cameroon lashes out at media coverage of murder of radio journalist</h1>
+    		<p>Cameroon's government has lashed out against international media coverage of the murder of a radio journalist last month in a case that has got the attention of much of the country.
+
+Government spokesman Rene Emmanuel Sadi said Arsène Salomon Mbani Zogo's killing is now being used as a pretext to put the state of Cameroon itself on trial - and he named both the French newspaper Le Monde and Reporters Without Borders (RSF) as the prime culprits.
+
+It was the government's first public comment on the case in more than three weeks.
+
+Zogo was abducted on January 17th by unidentified assailants at a police post in the suburbs of the capital Yaoundé.
+
+Five days later he was found dead, his body clearly showing the signs of physical attack.
+
+Then two weeks later in Yaoundé an influential businessman called Jean-Pierre Amougou Belinga was arrested on suspicion of involvement in the murder.
+
+He had close links to several ministers and senior government officials.
+
+RSF, which defends the rights of journalists, reported that "the net is closing on Minister Laurent Esso, one of the pillars of the Cameroonian government." Esso is the Justice Minister and has been in Paul Biya's government since the 1996.</p>
+    	</section>
+    	<section class="section2">
+    		<h1>Ghana: Christian Atsu's body arrives in Accra</h1>
+    		<p>The remains of former Ghana international footballer Christian Atsu who died in a devastating earthquake in Turkey were being flown home on Sunday, the country's foreign ministry said.
+
+Atsu, 31, was caught up in a 7.8-magnitude quake that rocked Turkey and Syria on February 6, killing more than 44,000 people in both countries.
+
+There were initial reports the former Chelsea and Newcastle player had been rescued a day after the quake, but these turned out to be false and his body was found on Saturday.
+
+"The remains will be accompanied by his family and Ghana's ambassador to Turkey on a Turkish airlines flight and will arrive in Accra (Ghana's capital) at 7:40 p.m. Sunday," the foreign ministry said.
+
+On Saturday, the ministry said that Atsu's older brother and twin sister were present at the site of the rescue when his body was recovered.
+
+His widow Marie-Claire Rupio and their three children were in the stands at St James' Park on Saturday to join in a tribute to the player before Newcastle's Premier League match against Liverpool.
+
+Atsu scored the last of his 33 career goals for Hatayspor in Turkey's Super Lig on February 5, hours before the quake struck.
+
+"There are no words to describe our sadness," tweeted his Turkish top-flight club in homage to him.
+
+"We will not forget you, Atsu. Peace be upon you, beautiful person."
+
+He previously played for his national team the Black Stars and Ghana's President Nana Akufo-Addo said "football has lost one of its finest.</p>
+    	</section>
+    </div>
+</div>
+    <div class="adverts">
+    	 <a href="https://www.orange.cm/"><img src="orange.jpg"></a>
+    	 <a href="dstv.com"><img src="dstv.jpg"></a>
+    	 <a href=""><img src="nyangapay.jpeg"></a>
+    	 <a href=""><img src=""></a>
+    	
+    </div>
+
+
+<footer>
+	
+</footer>
+
+</body>
+</html>
