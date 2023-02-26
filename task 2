@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Dog World</title>
+  <link rel="stylesheet" href="stylesheettask.css">
+</head>
+<body class="container">
+<header>
+  <h1>dog world</h1>
+  <p><b>Sit. Stay. Browse!</b></p>
+</header>
+<section class="main">
+  <div class="dogA">
+<div class="styleA">
+  <h2>Editorial</h2>
+  <p><img src="#" alt="images" width="100" height="85">
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    Ut pulvinar lectus lacus, ut pharetra nisi vehicula ut.</p>
+
+
+</div>
+    <div class="styleB">
+      <h2>Dog Advice</h2>
+      <p><img src="#" alt="images" width="250" height="120">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        Ut pulvinar lectus lacus, ut pharetra nisi vehicula ut. </p>
+
+
+    </div>
+    <div class="styleC">
+      <h2>Your Email</h2>
+      <p><img src="#" alt="images" width="250" height="120">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        Ut pulvinar lectus lacus, ut pharetra nisi vehicula ut.</p>
+
+    </div>
+  </div>
+  <div class="div1">
+    <div class="styleD">
+        <img src="#" alt="images" width="500" height="200">
+      
+      <div class="styleF">
+        <h1>DOGS AT WORK</h1>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+      </div>
+    </div>
+    <div class="styleF">
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut pulvinar
+        lectus lacus, ut pharetra nisi vehicula ut. Nunc vitae massa condimentum
+        metus mollis fringilla. Aliquam in ligula lacus. Maecenas at condimentum
+        nisi, eu facilisis lorem. Curabitur at lorem eget eros lacinia scelerisque
+        et sit amet sapien. Nullam laoreet quam risus, eu tempus dolor semper non.
+        Suspendisse at purus eros.
+        Praesent a arcu efficitur, fringilla nunc non, posuere tellus. Donec mollis massa
+        eget massa blandit.Nullam laoreet quam risus, eu tempus dolor semper non.
+        Suspendisse at purus eros.Praesent a arcu efficitur, fringilla nunc non, posuere tellus. Donec mollis massa
+        eget massa blandit, commodo varius turpis consequat.</p>
+    </div>
+    <hr>
+    <div class="styleE">
+      <p>
+        <img src="#" alt="images" width="150" height="152">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut pulvinar
+        lectus lacus, ut pharetra nisi vehicula ut. Nunc vitae massa condimentum
+        metus mollis fringilla. Aliquam in ligula lacus. Maecenas at condimentum
+        nisi, eu facilisis lorem. Curabitur at lorem eget eros lacinia scelerisque
+        et sit amet sapien. Nullam laoreet quam risus, eu tempus dolor semper non.
+        Suspendisse at purus eros.Praesent a arcu efficitur, fringilla nunc non, posuere tellus. Donec mollis massa
+        eget massa blandit, commodo varius turpis consequat.
+      </p>
+
+    </div>
+
+  </div>
+  <div class="div3">
+   
+      <form>
+        <h2>Search the site</h2>
+        <input type="text" placeholder="Enter search text......"><br>
+        <button type="submit" class="submitBtn">Submit</button>
+      </form>
+    </div>
+    
+      <div id="links">
+        <h1>links</h1>
+        <nav>
+          <a href="#">Pet Supplies</a><br>
+          <a href="#">AKC</a><br>
+          <a href="#">Westminster</a><br>
+          <a href="#">Dogs Blogs</a><br>
+          <a href="#">Puppy Advice</a><br>
+        </nav>
+      </div>
+
+      <div class="styleG">
+        <h3>Next Month.....</h3><br>
+        <h3>DOGS LOVES the BEACH!</h3>
+      </div>
+  </div>
+</section>
+</body>
+</html>
